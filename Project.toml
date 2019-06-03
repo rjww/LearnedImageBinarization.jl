@@ -1,0 +1,13 @@
+name = "LearnedImageBinarization"
+uuid = "76e66880-85a3-11e9-3e6d-337778b39026"
+authors = ["Robert Woods", "Zygmunt Szpak"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
